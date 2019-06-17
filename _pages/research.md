@@ -13,6 +13,6 @@ author_profile: true
 
 ### Does Unemployment Insurance Stabilize the Housing Market? A comment on Hsu, Matsa, and Melzer (2018)
 
-[Draft, January 2019](../files/paper1.pdf)
+[Draft, January 2019](../files/hmm_comment.pdf)
 
 *Abstract:* Hsu, Matsa, and Melzer (2018) (HMM) study the effect of unemployment insurance (UI) on the housing market. Exploiting time-series variation in regular state UI generosity and crosssectional variation in federal supplements to regular state UI generosity during the Great Recession, HMM find that UI reduces the likelihood of mortgage delinquency and foreclosure among the unemployed. In this comment, I show that both of these sources of variation in UI generosity are confounded by variation in state economic conditions. Taking account of state economic confounds reduces the magnitude of HMM’s headline estimates and renders them statistically indistinguishable from zero.
