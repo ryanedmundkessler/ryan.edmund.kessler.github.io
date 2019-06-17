@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### The effect of SNAP on the composition of purchased foods: Evidence and implications
+### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications
 with Justine Hastings and Jesse Shapiro
 
 [Draft, June 2019](../files/snap_nutrition.pdf); [Appendix](../files/nutr_online.pdf); [Supplement](../files/snap_nutrition_hms.pdf)
