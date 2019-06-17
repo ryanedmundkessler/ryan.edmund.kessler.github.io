@@ -8,6 +8,7 @@ author_profile: true
 ## The effect of SNAP on the composition of purchased foods: Evidence and implications
 
 June 2019
+
 (with Justine Hastings and Jesse Shapiro)
 
 [Draft](../files/paper1.pdf), [Appendix](../files/paper1.pdf), [Supplement](../files/paper1.pdf)
