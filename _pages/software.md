@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-### Computing Simultaneous Confidence Bands in Stata
+### Simultaneous Confidence Bands in Stata
 with Sergey Egiev and Michael Sielski
 
 [GitHub repo](https://github.com/ryanedmundkessler/simultaneous_confidence_bands)
