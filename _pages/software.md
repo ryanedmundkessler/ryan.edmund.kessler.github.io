@@ -19,6 +19,7 @@ Stata function that computes the critical values underlying the simultaneous sup
 R functions to compute Empirical Bayes adjustments in a model with Gaussian-distributed estimates and a Gaussian prior following the approach of [Morris (1983)](https://www.jstor.org/stable/2287098)
 
 ### Leave-one-out Medians in Stata 
+with Sergey Egiev and Michael Sielski
 
 [GitHub repo](https://github.com/ryanedmundkessler/leave_one_out_median)
 
