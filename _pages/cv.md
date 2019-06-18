@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](../files/snap_nutrition.pdf)
+Under construction
