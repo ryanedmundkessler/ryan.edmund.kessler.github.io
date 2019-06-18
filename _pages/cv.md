@@ -11,9 +11,9 @@ redirect_from:
 
 ### Education
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Quantitative Economics, Drake University, 2010
+* MA in Economics, Brown University, May 2015
+* PhD in economics, Brown University, May 2020 (Expected)
 
 ### Work experience
 
