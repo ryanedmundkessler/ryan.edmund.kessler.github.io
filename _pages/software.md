@@ -5,9 +5,9 @@ permalink: /software/
 author_profile: true
 ---
 
-### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications
-with Justine Hastings and Jesse Shapiro
+### Computing Simultaneous Confidence Bands in Stata
+with Sergey Egiev and Michael Sielski
 
-[Draft, June 2019](../files/snap_nutrition.pdf); [Appendix](../files/nutr_online.pdf); [Supplement](../files/snap_nutrition_hms.pdf); [Policy Brief](https://www.ripl.org/initiatives/initiative-two-social-program-innovation-2/initiative-two-snap-nutrition/)
+[GitHub repo](https://github.com/ryanedmundkessler/simultaneous_confidence_bands)
 
-*Abstract:* We use detailed data from a large retail panel to study the effect of participation in the Supplemental Nutrition Assistance Program (SNAP) on the composition and nutrient content of foods purchased for at-home consumption. We find that the effect of SNAP participation is small relative to the cross-sectional variation in most of the outcomes we consider. Estimates from a model relating the composition of a household’s food purchases to the household’s current level of food spending imply that closing the gap in food spending between high- and low-SES households would not close the gap in summary measures of food healthfulness.
+[Stata](https://www.stata.com/) function that computes the critical values underlying the simultaneous sup-t confidence bands proposed in [Montiel Olea and Plagborg-Møller (2018)](https://scholar.princeton.edu/sites/default/files/mikkelpm/files/conf_band.pdf)
