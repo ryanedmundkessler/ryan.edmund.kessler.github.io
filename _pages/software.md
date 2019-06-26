@@ -10,7 +10,7 @@ with Sergey Egiev and Michael Sielski
 
 [R GitHub Repository](https://github.com/ryanedmundkessler/simultaneous_confidence_bands_r); [Stata GitHub Repository](https://github.com/ryanedmundkessler/simultaneous_confidence_bands_stata)
 
-*Description*: R and Stata functions that compute the critical values underlying the simultaneous sup-t confidence bands proposed in [Montiel Olea and Plagborg-Møller (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2656)
+*Description*: R and Stata functions to compute the critical values underlying the simultaneous sup-t confidence bands proposed in [Montiel Olea and Plagborg-Møller (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2656)
 
 ### Gaussian Empirical Bayes in R
 
