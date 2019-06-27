@@ -8,7 +8,7 @@ author_profile: true
 ### Simultaneous Confidence Bands in Stata
 with Sergey Egiev and Michael Sielski
 
-[GitHub Repository](https://github.com/ryanedmundkessler/simultaneous_confidence_bands_stata)
+[GitHub Repository](https://github.com/ryanedmundkessler/simultaneous_confidence_bands)
 
 *Description*: Stata function to compute the critical values underlying the simultaneous sup-t confidence bands proposed in [Montiel Olea and Plagborg-Møller (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/jae.2656)
 
