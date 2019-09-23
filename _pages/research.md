@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+### Do Driver's License Suspensions Compel Payment? Evidence From Chicago
+
+*Abstract:* Many state and local governments use the threat of driver's license suspension to compel payment of fines and fees. In this paper, I provide the first quasi-experimental evidence on the efficacy of such threats. Using administrative records from the City of Chicago, I estimate the effect of the threat of driver's license suspension on the ex post receipt and payment of traffic fines. To isolate the causal effect of the threat, I exploit cross-sectional variation in exposure to a policy change that resulted in a ten-fold increase in driver's license suspension threats in the city in a difference-in-differences design. The threat of driver's license suspension has little effect on ex post ticket receipt but increases ticket payment by \$814 on average in the three years following receipt of the threat. The payment response is smaller among drivers with vehicles registered in high-poverty ZIP Codes. Eliminating driver's license suspensions for the non-payment of traffic fines would reduce annual traffic fine revenue in the city by at least 6.8 percent.
+
 ### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications
 with Justine Hastings and Jesse Shapiro
 
