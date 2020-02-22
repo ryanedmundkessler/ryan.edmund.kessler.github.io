@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Do Driver's License Suspensions Compel Payment? Evidence From Chicago
+### Does Punishment Compel Payment? Driver's License Suspensions and Fine Delinquency
 
 *Abstract:* Many state and local governments use the threat of driver's license suspension (DLS) to compel the payment of fines and fees. In this paper, I provide the first quasi-experimental evidence on the efficacy of such threats. Using administrative records from the City of Chicago, I estimate the effect of receiving a threat of DLS on the payment of traffic fines. To isolate the causal effect of receiving a threat, I exploit cross-sectional variation in exposure to a change in the enforcement of DLS policy in a fuzzy difference-in-differences design. Receiving a threat of DLS increases traffic fine payment by $658 on average over the four years following receipt, representing 40 percent of the average traffic fine debt among drivers in my sample. My estimates suggest that eliminating DLS for the non-payment of traffic fines would reduce annual traffic fine revenue in the city by 4.5 percent. 
 
