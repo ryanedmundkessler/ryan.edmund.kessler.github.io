@@ -9,6 +9,8 @@ author_profile: true
 
 *Abstract:* This paper studies the effect of government fine and debt collection policy on individual financial well-being in the context of Chicago, where beginning in 2011 the city adopted a more aggressive traffic fine and debt collection policy. Using detailed traffic fine, credit report, and consumer bankruptcy records, I estimate that the policy change did not have a large effect on financial well-being as measured by credit scores, credit card balances past due, or debt in collections. The policy change did, however, cause a 1.1 standard deviation increase in the Chapter 13 bankruptcy rate, amounting to approximately 43,000 additional Chapter 13 bankruptcy filings through the end of 2017. The bankruptcy response was driven by an influx of filings by relatively low-income, low-asset individuals with significant traffic fine debt. For most Chapter 13 bankruptcy filers with traffic fine debt, bankruptcy provided no debt relief and limited asset protection at significant cost in bankruptcy court and attorney fees. These results highlight inefficiencies in revenue generation via fines. 
 
+[Draft, May 2020](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592985)
+
 ### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications
 with Justine Hastings and Jesse Shapiro (Revise and Resubmit at AEJ: Economic Policy)
 
