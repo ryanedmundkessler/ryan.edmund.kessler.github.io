@@ -9,7 +9,6 @@ author_profile: true
 
 #### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications
 with Justine Hastings and Jesse Shapiro 
-
 American Economic Journal: Economic Policy, Forthcoming 
 
 [Draft, July 2020](../files/snap_nutrition.pdf); [Appendix](../files/nutr_online.pdf); [Policy Brief](https://www.ripl.org/initiatives/initiative-two-social-program-innovation-2/initiative-two-snap-nutrition/)
