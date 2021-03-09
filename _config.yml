@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Kessler"
 title_separator          : "-"
 name                     : &name "Ryan Kessler"
-description              : &description "Economist with interests in empirical methods and public and household finance"
+description              : &description "Economist with interests in public finance and applied econometrics"
 url                      : https://ryanedmundkessler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryanedmundkessler/ryanedmundkessler.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ryan Kessler"
   avatar           : "profile.jpg"
-  bio              : "Economist with interests in empirical methods and public and household finance"
+  bio              : "Economist with interests in public finance and applied econometrics"
   location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
