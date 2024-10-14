@@ -14,7 +14,7 @@ Conference on Digital Experimentation (CODE) at MIT (2024) <br/>
 ### The Effect of SNAP on the Composition of Purchased Foods: Evidence and Implications<br/>
 with Justine Hastings and Jesse Shapiro<br/>
 American Economic Journal: Economic Policy 13, no. 3 (2021): 277-315 <br/>
-[Manuscript](../files/snap_nutrition.pdf); [Appendix](../files/nutr_online.pdf); [Policy Brief](https://www.ripl.org/initiatives/initiative-two-social-program-innovation-2/initiative-two-snap-nutrition/)
+[Manuscript](../files/snap_nutrition.pdf); [Appendix](../files/nutr_online.pdf)
 
 *Abstract:* We use detailed data from a large retail panel to study the effect of participation in the Supplemental Nutrition Assistance Program (SNAP) on the composition and nutrient content of foods purchased for at-home consumption. We find that the effect of SNAP participation is small relative to the cross-sectional variation in most of the outcomes we consider. Estimates from a model relating the composition of a household’s food purchases to the household’s current level of food spending imply that closing the gap in food spending between high- and low-SES households would not close the gap in summary measures of food healthfulness.
 
